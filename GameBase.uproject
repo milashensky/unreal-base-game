@@ -22,6 +22,10 @@
 		{
 			"Name": "MotionWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "AIContoller3dFocus",
+			"Enabled": true
 		}
 	]
 }
