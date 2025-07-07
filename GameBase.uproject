@@ -25,6 +25,10 @@
 		},
 		{
 			"Name": "AIContoller3dFocus",
+			"Enabled": false
+		},
+		{
+			"Name": "BaseGameUtils",
 			"Enabled": true
 		}
 	]

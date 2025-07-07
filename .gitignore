@@ -14,3 +14,5 @@ Saved
 *.xcworkspace
 Content/AnimalVarietyPack/*
 Content/FootstepsMiniPack/*
+Builds/*
+Build/*
